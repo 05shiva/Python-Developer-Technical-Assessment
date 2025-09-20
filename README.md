@@ -23,7 +23,7 @@ assement/
 
 1. **Clone the repository**  
 ```bash
-git clone <your-repo-url>
+git clone https://github.com/05shiva/Python-Developer-Technical-Assessment.git
 cd assement
 2. pip install -r requirements.txt
 3. python -m uvicorn scripts.api:app --reload --port 8000
