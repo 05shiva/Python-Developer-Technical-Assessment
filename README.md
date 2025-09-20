@@ -31,7 +31,7 @@ The system answers 8 safety-related questions by retrieving relevant information
 - `README.md`: This file.
 
 ## Setup Instructions 
-
+```bash
 1. **Clone the repository**  
 
 git clone https://github.com/05shiva/Python-Developer-Technical-Assessment.git
@@ -40,7 +40,7 @@ cd assement
 3. python -m uvicorn scripts.api:app --reload --port 8000
 4.python scripts/run_assessment.py
 5.python scripts/table.py
-
+```
 ## Learning 
 
 
