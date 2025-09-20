@@ -1,6 +1,17 @@
 # Python-Developer-Technical-Assessment
-This repository contains the code, data, and results for the Python Developer Technical Assessment.
-assement/
+Overview
+
+This repository contains my solution for the Python Developer Technical Assessment. It demonstrates skills in:
+
+Data ingestion and chunking
+
+Generating embeddings and building a vector index
+
+Baseline search and hybrid reranking
+
+RESTful API development
+
+The system answers 8 safety-related questions by retrieving relevant information from provided sources.assement/
 ├── scripts/
 │ ├── api.py
 │ ├── run_assessment.py
@@ -19,7 +30,7 @@ assement/
 - `results_table.csv`: CSV table containing all questions, answers, citations, reranker used, and scores.
 - `README.md`: This file.
 
-## Setup Instructions
+## Setup Instructions 
 
 1. **Clone the repository**  
 ```bash
@@ -30,4 +41,15 @@ cd assement
 4.python scripts/run_assessment.py
 5.python scripts/table.py
 
+## Learnings
+
+Through this assessment, I improved my understanding of:
+
+Data Pipelines: Efficiently chunking and embedding source documents.
+
+Search & Reranking: Combining vector similarity with BM25 scoring for hybrid retrieval.
+
+API Development: Building a working RESTful API to serve ML-powered answers.
+
+This project helped me gain experience integrating multiple components into a coherent system and handling real-world text data.
 
