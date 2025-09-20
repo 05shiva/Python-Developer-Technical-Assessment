@@ -41,7 +41,8 @@ cd assement
 4.python scripts/run_assessment.py
 5.python scripts/table.py
 
-## Learnings
+## Setup Instructions 
+
 
 Through this assessment, I improved my understanding of:
 
