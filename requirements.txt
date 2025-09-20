@@ -1,0 +1,11 @@
+sentence-transformers>=2.2.2
+faiss-cpu
+rank_bm25
+fastapi
+uvicorn[standard]
+pypdf
+tqdm
+numpy
+pandas
+nltk
+requests

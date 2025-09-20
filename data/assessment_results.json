@@ -1,0 +1,522 @@
+[
+    {
+        "question": "What is lockout-tagout?",
+        "baseline": {
+            "answer": "MACHINERY SAFEBOOK 5 Safety related control systems for machinery 30 An energy isolating device is a mechanical device that physically prevents the transmission or release of energy. In this case, the machine is turned off and a tag is applied to warn all personnel to not start the machine while the tag holder is working on the machine.",
+            "contexts": [
+                {
+                    "id": 1430,
+                    "source": "safebk-rm002_-en-p.pdf",
+                    "text": "machine’s hazard zones. Lockout / Tagout New machines must be built with lockable energy isolating devices. The devices apply to all types of energy, including electrical, hydraulic, pneumatic, gravity, and lasers. Lockout refers to applying a lock to an energy isolating device. The lock must only be removed by its owner or by a supervisor under controlled conditions. When multiple individuals must work on the machine, each individual must apply their locks to the energy isolating devices. Each lock must be identiﬁ able to its owner. In the U.S., tagout is an alternative to lockout for older machines where a lockable device has never been installed. In this case, the machine is turned off and a tag is applied to warn all personnel to not start the machine while the tag holder is working on the machine. Beginning in 1990, machines that are modiﬁ ed must be upgraded to include a lockable energy isolating device. MACHINERY SAFEBOOK 5 Safety related control systems for machinery 30 An energy isolating device is a mechanical device that physically prevents the transmission or release of energy. These devices can take the form of a circuit breaker, a disconnect switch, a manually operated switch, a",
+                    "score": 0.6119066476821899
+                },
+                {
+                    "id": 654,
+                    "source": "osha3170.pdf",
+                    "text": "Control of hazardous energy (lockout/tagout), 29 CFR 1910.147, standard. For example, instruct employees to lubricate, align, service, and main- tain conveyors when the conveyor is locked or tagged out if the task would expose them to an area of the conveyor (or adjacent machinery) where hazardous energy exists. Minor Servicing At times, OSHA recognizes that some minor servicing may have to be performed during nor- mal production operations, so a lockout/tagout exception is allowed. See the 29 CFR 1910.147(a) (2)(ii) Note for details. An example of a common conveyor minor servicing activity involves pack- age jams where an employee must frequently dislodge the jam. To prevent unexpected start-up of the conveyor, employers may adopt alterna- tive control measures, such as opening (placing in the off position) local disconnects or control switches to prevent conveyor start-up. These properly applied devices, if used, must be under the exclusive control of the employee per- forming the jam release, so that no other person can restart the conveyor without the knowledge and consent of the person performing the servic- ing work. Source: 29 CFR 1910.147(a)(2)(ii) Note. Applicable Standards • 29 CFR 1910.147, Control of hazardous energy (lockout/tagout). • 29 CFR 1910.212, General requirements for",
+                    "score": 0.5814749598503113
+                },
+                {
+                    "id": 693,
+                    "source": "osha3170.pdf",
+                    "text": "a lockout/tagout exception is allowed. See the 29 CFR 1910.147(a)(2)(ii) Note, for details. For example, minor milling machine tool changes and adjust- ments may be performed without lockout/tagout if the machine’s electrical disconnect or control (on/off) switches control all the hazardous energy and are: 1) properly designed and applied in accordance with good engineering practice; 2) placed in an off (open) position; and 3) under the exclusive control of the employee performing the minor servicing task. Source: 29 CFR 1910.147(a)(2)(ii) Note. Applicable Standards • 29 CFR 1910.147, Control of hazardous energy (lockout/tagout) • 29 CFR 1910.212, General requirements for all machines • 29 CFR 1910.219, Mechanical power-transmis- sion apparatus Sources of Additional Information • OSHA Publication 3067, Concepts and Techniques of Machine Safeguarding (http://www.osha.gov/Publications/Mach_ Safeguard/toc.html) • OSHA Machine Guarding eTool (http://www. osha.gov/SLTC/etools/machineguarding/index. html) • OSHA Lockout/Tagout Interactive Training Program (http://www.osha.gov/dts/osta/ lototraining/index.htm) • National Safety Council, Accident Prevention Manual for Industrial Operations: Engineering and Technology. 10th Ed. Itasca, IL • ANSI B11.8-2001, Safety Requirements for Manual Milling, Drilling and Boring Machines with or without Automatic Control Hazards of Grinding Machines Grinding machines primarily alter the size, shape, and surface finish of metal by placing a work-piece against a rotating abrasive surface",
+                    "score": 0.5694597959518433
+                }
+            ],
+            "reranker_used": "baseline",
+            "citation": {
+                "id": 1430,
+                "source": "safebk-rm002_-en-p.pdf"
+            }
+        },
+        "hybrid": {
+            "answer": "MACHINERY SAFEBOOK 5 Safety related control systems for machinery 30 An energy isolating device is a mechanical device that physically prevents the transmission or release of energy. In this case, the machine is turned off and a tag is applied to warn all personnel to not start the machine while the tag holder is working on the machine.",
+            "contexts": [
+                {
+                    "id": 1430,
+                    "source": "safebk-rm002_-en-p.pdf",
+                    "text": "machine’s hazard zones. Lockout / Tagout New machines must be built with lockable energy isolating devices. The devices apply to all types of energy, including electrical, hydraulic, pneumatic, gravity, and lasers. Lockout refers to applying a lock to an energy isolating device. The lock must only be removed by its owner or by a supervisor under controlled conditions. When multiple individuals must work on the machine, each individual must apply their locks to the energy isolating devices. Each lock must be identiﬁ able to its owner. In the U.S., tagout is an alternative to lockout for older machines where a lockable device has never been installed. In this case, the machine is turned off and a tag is applied to warn all personnel to not start the machine while the tag holder is working on the machine. Beginning in 1990, machines that are modiﬁ ed must be upgraded to include a lockable energy isolating device. MACHINERY SAFEBOOK 5 Safety related control systems for machinery 30 An energy isolating device is a mechanical device that physically prevents the transmission or release of energy. These devices can take the form of a circuit breaker, a disconnect switch, a manually operated switch, a",
+                    "vec_score": 0.6119066476821899,
+                    "bm25": 3.0480332142720536,
+                    "final_score": 0.7119420609281686
+                },
+                {
+                    "id": 654,
+                    "source": "osha3170.pdf",
+                    "text": "Control of hazardous energy (lockout/tagout), 29 CFR 1910.147, standard. For example, instruct employees to lubricate, align, service, and main- tain conveyors when the conveyor is locked or tagged out if the task would expose them to an area of the conveyor (or adjacent machinery) where hazardous energy exists. Minor Servicing At times, OSHA recognizes that some minor servicing may have to be performed during nor- mal production operations, so a lockout/tagout exception is allowed. See the 29 CFR 1910.147(a) (2)(ii) Note for details. An example of a common conveyor minor servicing activity involves pack- age jams where an employee must frequently dislodge the jam. To prevent unexpected start-up of the conveyor, employers may adopt alterna- tive control measures, such as opening (placing in the off position) local disconnects or control switches to prevent conveyor start-up. These properly applied devices, if used, must be under the exclusive control of the employee per- forming the jam release, so that no other person can restart the conveyor without the knowledge and consent of the person performing the servic- ing work. Source: 29 CFR 1910.147(a)(2)(ii) Note. Applicable Standards • 29 CFR 1910.147, Control of hazardous energy (lockout/tagout). • 29 CFR 1910.212, General requirements for",
+                    "vec_score": 0.5814749598503113,
+                    "bm25": 2.186455904476917,
+                    "final_score": 0.6260255339211871
+                },
+                {
+                    "id": 693,
+                    "source": "osha3170.pdf",
+                    "text": "a lockout/tagout exception is allowed. See the 29 CFR 1910.147(a)(2)(ii) Note, for details. For example, minor milling machine tool changes and adjust- ments may be performed without lockout/tagout if the machine’s electrical disconnect or control (on/off) switches control all the hazardous energy and are: 1) properly designed and applied in accordance with good engineering practice; 2) placed in an off (open) position; and 3) under the exclusive control of the employee performing the minor servicing task. Source: 29 CFR 1910.147(a)(2)(ii) Note. Applicable Standards • 29 CFR 1910.147, Control of hazardous energy (lockout/tagout) • 29 CFR 1910.212, General requirements for all machines • 29 CFR 1910.219, Mechanical power-transmis- sion apparatus Sources of Additional Information • OSHA Publication 3067, Concepts and Techniques of Machine Safeguarding (http://www.osha.gov/Publications/Mach_ Safeguard/toc.html) • OSHA Machine Guarding eTool (http://www. osha.gov/SLTC/etools/machineguarding/index. html) • OSHA Lockout/Tagout Interactive Training Program (http://www.osha.gov/dts/osta/ lototraining/index.htm) • National Safety Council, Accident Prevention Manual for Industrial Operations: Engineering and Technology. 10th Ed. Itasca, IL • ANSI B11.8-2001, Safety Requirements for Manual Milling, Drilling and Boring Machines with or without Automatic Control Hazards of Grinding Machines Grinding machines primarily alter the size, shape, and surface finish of metal by placing a work-piece against a rotating abrasive surface",
+                    "vec_score": 0.5694597959518433,
+                    "bm25": 1.4652073640397532,
+                    "final_score": 0.5781081829584438
+                }
+            ],
+            "reranker_used": "hybrid",
+            "citation": {
+                "id": 1430,
+                "source": "safebk-rm002_-en-p.pdf"
+            }
+        }
+    },
+    {
+        "question": "What are the safety requirements for milling machines?",
+        "baseline": {
+            "answer": "SAFEGUARDING EQUIPMENT AND PROTECTING EMPLOYEES FROM AMPUTATIONS 43 Figure 41 Bed Mill Some frequent causes of amputation from milling machines include: • Loading or unloading parts and callipering or measuring the milled part while the cutter is still rotating; • Operating milling machines with the safety door selector switch on bypass; • Inspecting the milling machine gearbox with the machine still operating; • Manually checking the machine for loose gears (by removing Drilling and Boring Machines with or without Automatic Control • ANSI O1.1-2004, Safety Requirements for Woodworking Machinery Hazards of Milling Machines Electric milling machines cut metal using a rotating cutting device called a milling cutter.",
+            "contexts": [
+                {
+                    "id": 689,
+                    "source": "osha3170.pdf",
+                    "text": "Drilling and Boring Machines with or without Automatic Control • ANSI O1.1-2004, Safety Requirements for Woodworking Machinery Hazards of Milling Machines Electric milling machines cut metal using a rotating cutting device called a milling cutter. These ma- chines cut flat surfaces, angles, slots, grooves, shoulders, inclined surfaces, dovetails, and recessed cuts. Cutters of different sizes and shapes are available for a wide variety of milling opera- tions. Milling machines include knee-and-column machines, bed-type or manufacturing machines, and special milling machines designed for special applications. Typical milling operations consist of selecting and installing the appropriate milling cut- ter, loading a work-piece on the milling table, con- trolling the table movement to feed the part against the rotating milling cutter, and callipering or meas- uring the part. (See Figure 41.) SAFEGUARDING EQUIPMENT AND PROTECTING EMPLOYEES FROM AMPUTATIONS 43 Figure 41 Bed Mill Some frequent causes of amputation from milling machines include: • Loading or unloading parts and callipering or measuring the milled part while the cutter is still rotating; • Operating milling machines with the safety door selector switch on bypass; • Inspecting the milling machine gearbox with the machine still operating; • Manually checking the machine for loose gears (by removing",
+                    "score": 0.6928081512451172
+                },
+                {
+                    "id": 691,
+                    "source": "osha3170.pdf",
+                    "text": "Safeguarding and Other Controls for Milling Machines The following primary safeguarding methods will help protect you from point-of-operation and other milling machine hazard areas: • Install guards (fixed, movable, and interlocked) that enclose the milling cutter’s point-of-opera- tion; • Install properly applied safeguarding devices, such as presence-sensing devices and two-hand control methods; • Install guards around the machine’s power transmission components (such as drive mecha- nisms). The following are some secondary safeguarding methods, work practices, and complementary equipment that may be used to supplement pri- mary safeguarding or alone or in combination when primary safeguarding methods are not feasi- ble: • Use other safeguarding devices such as splash shields, chip shields, or barriers if they provide effective protection to the operator and when it is impractical to guard cutters without interfer- ing with normal production operations or creat- ing a more hazardous situation. • Install awareness devices, such as barriers and warning signs, around the milling table. • Instruct operators not to use a jig or vise (work- holding equipment) that prevents the point of operation guard from being adjusted appropri- ately. • Develop and implement safe (operating) work procedures for machine operators, such as safe work procedures for installing",
+                    "score": 0.6624642610549927
+                },
+                {
+                    "id": 692,
+                    "source": "osha3170.pdf",
+                    "text": "and using fixtures and tooling. • Instruct operators to place the jig or vise locking arrangement so that force must be exerted away from the cutter. 44 Occupational Safety and Health Administration • Ensure that all operators receive appropriate safe work procedure training by experienced operators until they can work safely on their own. • Instruct operators to move the work-holding device back to a safe distance when loading or unloading parts and callipering or measuring the work and not to perform these activities while the cutter is still rotating unless the cutter is adequately guarded. • Instruct employees not to wear gloves, jewelry, or loose-fitting clothing while operating a milling machine and to secure long hair in a net or cap. • Prohibit operators from reaching around the cut- ter or hob to remove chips while the machine is in motion or not locked or tagged out. • Conduct periodic inspections to ensure compli- ance. • Perform servicing and maintenance under an energy control program in accordance with the Control of hazardous energy (lockout/tagout), 29 CFR 1910.147, standard. Minor Servicing At times, OSHA recognizes that some minor servicing may have to be performed during nor- mal production operations, so",
+                    "score": 0.6497302055358887
+                }
+            ],
+            "reranker_used": "baseline",
+            "citation": {
+                "id": 689,
+                "source": "osha3170.pdf"
+            }
+        },
+        "hybrid": {
+            "answer": "SAFEGUARDING EQUIPMENT AND PROTECTING EMPLOYEES FROM AMPUTATIONS 43 Figure 41 Bed Mill Some frequent causes of amputation from milling machines include: • Loading or unloading parts and callipering or measuring the milled part while the cutter is still rotating; • Operating milling machines with the safety door selector switch on bypass; • Inspecting the milling machine gearbox with the machine still operating; • Manually checking the machine for loose gears (by removing Drilling and Boring Machines with or without Automatic Control • ANSI O1.1-2004, Safety Requirements for Woodworking Machinery Hazards of Milling Machines Electric milling machines cut metal using a rotating cutting device called a milling cutter.",
+            "contexts": [
+                {
+                    "id": 689,
+                    "source": "osha3170.pdf",
+                    "text": "Drilling and Boring Machines with or without Automatic Control • ANSI O1.1-2004, Safety Requirements for Woodworking Machinery Hazards of Milling Machines Electric milling machines cut metal using a rotating cutting device called a milling cutter. These ma- chines cut flat surfaces, angles, slots, grooves, shoulders, inclined surfaces, dovetails, and recessed cuts. Cutters of different sizes and shapes are available for a wide variety of milling opera- tions. Milling machines include knee-and-column machines, bed-type or manufacturing machines, and special milling machines designed for special applications. Typical milling operations consist of selecting and installing the appropriate milling cut- ter, loading a work-piece on the milling table, con- trolling the table movement to feed the part against the rotating milling cutter, and callipering or meas- uring the part. (See Figure 41.) SAFEGUARDING EQUIPMENT AND PROTECTING EMPLOYEES FROM AMPUTATIONS 43 Figure 41 Bed Mill Some frequent causes of amputation from milling machines include: • Loading or unloading parts and callipering or measuring the milled part while the cutter is still rotating; • Operating milling machines with the safety door selector switch on bypass; • Inspecting the milling machine gearbox with the machine still operating; • Manually checking the machine for loose gears (by removing",
+                    "vec_score": 0.6928081512451172,
+                    "bm25": 26.404087995992345,
+                    "final_score": 0.9999999964141065
+                },
+                {
+                    "id": 691,
+                    "source": "osha3170.pdf",
+                    "text": "Safeguarding and Other Controls for Milling Machines The following primary safeguarding methods will help protect you from point-of-operation and other milling machine hazard areas: • Install guards (fixed, movable, and interlocked) that enclose the milling cutter’s point-of-opera- tion; • Install properly applied safeguarding devices, such as presence-sensing devices and two-hand control methods; • Install guards around the machine’s power transmission components (such as drive mecha- nisms). The following are some secondary safeguarding methods, work practices, and complementary equipment that may be used to supplement pri- mary safeguarding or alone or in combination when primary safeguarding methods are not feasi- ble: • Use other safeguarding devices such as splash shields, chip shields, or barriers if they provide effective protection to the operator and when it is impractical to guard cutters without interfer- ing with normal production operations or creat- ing a more hazardous situation. • Install awareness devices, such as barriers and warning signs, around the milling table. • Instruct operators not to use a jig or vise (work- holding equipment) that prevents the point of operation guard from being adjusted appropri- ately. • Develop and implement safe (operating) work procedures for machine operators, such as safe work procedures for installing",
+                    "vec_score": 0.6624642610549927,
+                    "bm25": 19.082398262923288,
+                    "final_score": 0.7636433673537365
+                },
+                {
+                    "id": 589,
+                    "source": "osha3170.pdf",
+                    "text": "Training 24 Additional Requirements 24 Power Press Brakes 25 Hazards of Power Press Brakes 25 Safeguarding Power Press Brakes 25 Other Controls for Power Press Brakes 26 Hazards of Conveyors 26 Safeguarding Conveyors 28 Other Controls for Conveyors 29 Hazards of Printing Presses 30 Safeguarding Printing Presses 31 Other Controls for Printing Presses 32 Hazards of Roll-Forming and Roll-Bending Machines 33 Safeguarding Roll-Forming and Roll-Bending Machines 33 Other Controls for Roll-Forming and Roll-Bending Machines 34 Hazards of Shearing Machines 35 Safeguarding Shearing Machines 36 Other Controls for Shearing Machines 36 Hazards of Food Slicers 37 Safeguarding and Other Controls for Food Slicers 38 Hazards of Meat Grinders 38 Safeguarding and Other Controls for Meat Grinders 39 Hazards of Meat-Cutting Band Saws 39 Safeguarding and Other Controls for Meat-Cutting Band Saws 40 Hazards of Drill Presses 41 Safeguarding and Other Controls for Drill Presses 42 Hazards of Milling Machines 43 Safeguarding and Other Controls for Milling Machines 44 Hazards of Grinding Machines 45 Safeguarding and Other Controls for Grinding Machines 46 Hazards of Slitters 46 Safeguarding and Other Controls for Slitters 47 OSHA Assistance 49 References 51 Appendix A. Amputation Hazards Not Covered in this Guide 53 Appendix B. Amputation Hazards",
+                    "vec_score": 0.6223947405815125,
+                    "bm25": 16.143438332713885,
+                    "final_score": 0.5692483806333845
+                }
+            ],
+            "reranker_used": "hybrid",
+            "citation": {
+                "id": 689,
+                "source": "osha3170.pdf"
+            }
+        }
+    },
+    {
+        "question": "What are the main hazards of grinding machines?",
+        "baseline": {
+            "answer": "Here are some examples: • Install safety guards that cover the spindle end, nut, and flange projections or otherwise ensure adequate operator protection; • Install adjustable and rigid work rests on off- hand grinding machines; and • Install guards over power belts and drives. The following are some secondary safeguarding methods, work practices, and complementary equipment that may be used to supplement primary safeguarding or alone or in combination when primary safeguarding methods are not feasible: • Develop and implement safe work procedures for grinding machine operations.",
+            "contexts": [
+                {
+                    "id": 696,
+                    "source": "osha3170.pdf",
+                    "text": "and Other Controls for Grinding Machines You can help prevent employee accidents and injuries by using primary safeguarding methods. Here are some examples: • Install safety guards that cover the spindle end, nut, and flange projections or otherwise ensure adequate operator protection; • Install adjustable and rigid work rests on off- hand grinding machines; and • Install guards over power belts and drives. The following are some secondary safeguarding methods, work practices, and complementary equipment that may be used to supplement primary safeguarding or alone or in combination when primary safeguarding methods are not feasible: • Develop and implement safe work procedures for grinding machine operations. • Install warning and safety instruction signs. • Ensure that all operators receive appropriate on- the-job training and supervision until they can work safely on their own. • Use abrasive discs and wheels that are correctly rated for the grinder’s maximum operating spin- dle speed. The disc or wheel rating is marked on the disc or wheel in surface feet per minute. • Inspect and sound test the grinding wheel to ensure that it is not defective, unbalanced, loose, or too small. • Adjust the work rest to within 1/8 inch of the wheel.",
+                    "score": 0.6646279692649841
+                },
+                {
+                    "id": 1799,
+                    "source": "special_information_guide_for_safe_machinery_en_im0014678.pdf",
+                    "text": "step in the risk assessment on the machine. This s tep comprises the systematic identification of foreseeable hazards, hazardous situations, and/or hazardous events. Table 1: Example of hazards during the life cycle of a machine In particular the machine manufacturer should take into acc ount the hazards listed below… … in all phases of the service life of the machine. • Mechanic al hazards • Electrical hazards • Thermal hazards • Noise hazards • Vibration hazards • Radiation hazards • Hazards generated by materials and substances • Hazards generated by neglecting ergonomic principles dur‐ ing the design of machinery • Slipping, tripping, and falling hazards • Hazards associated with the environment in which the machine is used • Hazards resulting from a combination of the aforemen‐ tioned hazards • Tr ansport, assembly, and installation • Commissioning • Setup • Normal operation and troubleshooting • Maintenance and cleaning • Decommissioning, dismantling, and disposal Table 2: Examples of hazards and their impacts on machines/systems Cutting due to moving parts Crushing due to moving part s Shearing due to moving part s with sharp edges 1 – RISK ASSESSMENT 8007988/2024-10-21 | SICK S P E C I A L I N F O",
+                    "score": 0.6614149808883667
+                },
+                {
+                    "id": 694,
+                    "source": "osha3170.pdf",
+                    "text": "or wheel. Grind- ing machines may also be used for grinding glass, ceramics, plastics, and rubber. Examples of grinding machines include abrasive belt machines, abrasive cutoff machines, cylindrical grinders, centerless grinders, gear grinders, internal grinders, lapping machines, off-hand grinders, sur- face grinders, swing frame grinders, and thread grinders. (See Figure 42.) Figure 42 Horizontal Surface Grinder SAFEGUARDING EQUIPMENT AND PROTECTING EMPLOYEES FROM AMPUTATIONS 45 Amputation injuries can occur when the opera- tor’s hands enter the point of operation during the following activities: • Bypassing the grinding machine safety switch feature in order to clean the machine while it is running; • Wearing gloves while grinding, where it is possi- ble to have the glove get caught between the revolving disc and the table; • Fixing a jammed grinder machine by turning the machine off, removing the blade guard and reaching into the danger area before the blades stop turning; • Operating a grinding machine with non-func- tional interlocks and without the guard in place; • Using an incorrectly adjusted or missing work rest or a poorly maintained or unbalanced abra- sive wheel; • Adjusting the work rest, balancing the wheel, cleaning the area around the abrasive wheel and loading and",
+                    "score": 0.638013482093811
+                }
+            ],
+            "reranker_used": "baseline",
+            "citation": {
+                "id": 696,
+                "source": "osha3170.pdf"
+            }
+        },
+        "hybrid": {
+            "answer": "Here are some examples: • Install safety guards that cover the spindle end, nut, and flange projections or otherwise ensure adequate operator protection; • Install adjustable and rigid work rests on off- hand grinding machines; and • Install guards over power belts and drives. The following are some secondary safeguarding methods, work practices, and complementary equipment that may be used to supplement primary safeguarding or alone or in combination when primary safeguarding methods are not feasible: • Develop and implement safe work procedures for grinding machine operations.",
+            "contexts": [
+                {
+                    "id": 696,
+                    "source": "osha3170.pdf",
+                    "text": "and Other Controls for Grinding Machines You can help prevent employee accidents and injuries by using primary safeguarding methods. Here are some examples: • Install safety guards that cover the spindle end, nut, and flange projections or otherwise ensure adequate operator protection; • Install adjustable and rigid work rests on off- hand grinding machines; and • Install guards over power belts and drives. The following are some secondary safeguarding methods, work practices, and complementary equipment that may be used to supplement primary safeguarding or alone or in combination when primary safeguarding methods are not feasible: • Develop and implement safe work procedures for grinding machine operations. • Install warning and safety instruction signs. • Ensure that all operators receive appropriate on- the-job training and supervision until they can work safely on their own. • Use abrasive discs and wheels that are correctly rated for the grinder’s maximum operating spin- dle speed. The disc or wheel rating is marked on the disc or wheel in surface feet per minute. • Inspect and sound test the grinding wheel to ensure that it is not defective, unbalanced, loose, or too small. • Adjust the work rest to within 1/8 inch of the wheel.",
+                    "vec_score": 0.6646279692649841,
+                    "bm25": 20.318864702356127,
+                    "final_score": 0.9488011004769947
+                },
+                {
+                    "id": 694,
+                    "source": "osha3170.pdf",
+                    "text": "or wheel. Grind- ing machines may also be used for grinding glass, ceramics, plastics, and rubber. Examples of grinding machines include abrasive belt machines, abrasive cutoff machines, cylindrical grinders, centerless grinders, gear grinders, internal grinders, lapping machines, off-hand grinders, sur- face grinders, swing frame grinders, and thread grinders. (See Figure 42.) Figure 42 Horizontal Surface Grinder SAFEGUARDING EQUIPMENT AND PROTECTING EMPLOYEES FROM AMPUTATIONS 45 Amputation injuries can occur when the opera- tor’s hands enter the point of operation during the following activities: • Bypassing the grinding machine safety switch feature in order to clean the machine while it is running; • Wearing gloves while grinding, where it is possi- ble to have the glove get caught between the revolving disc and the table; • Fixing a jammed grinder machine by turning the machine off, removing the blade guard and reaching into the danger area before the blades stop turning; • Operating a grinding machine with non-func- tional interlocks and without the guard in place; • Using an incorrectly adjusted or missing work rest or a poorly maintained or unbalanced abra- sive wheel; • Adjusting the work rest, balancing the wheel, cleaning the area around the abrasive wheel and loading and",
+                    "vec_score": 0.638013482093811,
+                    "bm25": 19.846232821962012,
+                    "final_score": 0.8676735080580099
+                },
+                {
+                    "id": 485,
+                    "source": "Machine-Safety-Brochure-Guide.pdf",
+                    "text": "the public, including children, might be present. Historical accident/incident rates can be useful indicators, but cannot give a reliable indication of accident rates that can be expected. Risk assesment 18 19 Identify the limits of the machinery That is, just what is being assessed? What are the speeds/loads/substances etc that might be involved? For example how many bottles is the extruder blow moulding per hour, and how much material is being processed at what temperature? Remember to include foreseeable misuse, such as the possible use of a machine outside its specification. What is the expected life of the machinery and its application? How is it likely to be disposed of at the end of its life? Identify the hazards What aspects of the machine might cause harm to a person? Consider the possibility of entanglement, crushing, cutting from tools, sharp edges on the machine or on the material being processed. Other factors such as the stability of the machine, noise, vibration, and emission of substances or radiation also need to be considered, as well as burns from hot surfaces, chemicals, or friction due to high speeds. This stage should include all hazards that can be present during the lifecycle of",
+                    "vec_score": 0.6052597761154175,
+                    "bm25": 22.56375492726941,
+                    "final_score": 0.8430759127880656
+                }
+            ],
+            "reranker_used": "hybrid",
+            "citation": {
+                "id": 696,
+                "source": "osha3170.pdf"
+            }
+        }
+    },
+    {
+        "question": "Describe the safety procedures for conveyor systems.",
+        "baseline": {
+            "answer": "In-going nip points, of turning helical flights for the entire length of the screw conveyor, exist between the revolving shaft and trough. Since the trough is not usually required to be covered for proper operation of the conveyor and because many screw convey- ors are located",
+            "contexts": [
+                {
+                    "id": 647,
+                    "source": "osha3170.pdf",
+                    "text": "Hazards:Belt-conveyor drive mechanisms and conveying mediums are hazardous as are the fol- lowing belt-conveyor areas: 1) conveyor take-up and discharge ends; 2) where the belt or chain enters or exits the in-going nip point; 3) where the belt wraps around pulleys; 4) snub rollers where the belt changes direction, such as take- ups; 5) where multiple conveyors are adjoined; or 6) on transfers or deflectors used with belt conveyors. Controls: The hazards associated with nip and shear points must be safeguarded. Side guards (spill guards), if properly designed can prevent employee contact with power-transmission com- ponent, in-going nip points and the conveying medium. Secondary safeguarding methods for hazard control include the use of standard railings or fencing, or safeguarding by distance (location), and installing hazard awareness devices, such as pre-start-up signals and warning signs. Screw Conveyors Hazards:Screw conveyors are troughs with a revolving longitudinal shaft on which a spiral or twisted plate is designed. In-going nip points, of turning helical flights for the entire length of the screw conveyor, exist between the revolving shaft and trough. Since the trough is not usually required to be covered for proper operation of the conveyor and because many screw convey- ors are located",
+                    "score": 0.6671481132507324
+                },
+                {
+                    "id": 651,
+                    "source": "osha3170.pdf",
+                    "text": "Use prominent awareness devices, such as warning signs or lights, to alert employees to the conveyor operation. • Allow only trained individuals to operate con- veyors and only trained, authorized staff to per- form servicing and maintenance work. • Visually inspect the entire conveyor and imme- diate work area prior to start-up to determine that the actuation will not cause an employee hazard. • Inspect and test conveyor safety mechanisms, such as its alarms, emergency stops, and safe- guarding methods. • Do not use any conveyor which is unsafe until it is made safe. • Forbid employees from riding on conveyors. • Prohibit employees working with or near con- veyors from wearing loose clothing or jewelry, and require them to secure long hair with a net or cap. • Install emergency stop devices on conveyors where employees work when they cannot other- wise control the movement of the conveyor. This recognized safety feature provides employ- ees with the means to shut off the equipment in the event of a hazardous situation or emergency incident. For emergency stop devices, you will need these engineering controls: • Equip conveyors with interlocking devices that shut them down during an electrical or mechani- cal",
+                    "score": 0.6057420969009399
+                },
+                {
+                    "id": 650,
+                    "source": "osha3170.pdf",
+                    "text": "sprockets; between belt and carrier rollers; and at terminals, drives, take-ups, idlers, and snub rollers. Controls:Roller conveyors need to, where feasi- ble, have permanent barrier guards that can be adjusted as necessary to protect the employee from nip and shear points. For example, the unused section of rollers closest to the employ- ees needs to be guarded when transporting small items on a roller conveyor that do not require the use of the entire roller width. Also, conveyor hazards may be reduced by eliminating or minimizing projections from the roller and through the use of pop-up rollers. Other second- ary safeguarding options include safeguarding by distance (location) and the use of awareness devices. Other Controls for Conveyors The following are some secondary safeguarding methods, work practices, and complementary equipment that may be used to supplement pri- mary safeguarding or alone or in combination when primary safeguarding methods are not feasi- ble: • Safeguarding by safe distance (by location) — locating moving parts away from employees to prevent accidental contact with the hazard point—is one option for safeguarding convey- ors. It is particularly difficult, however, to use this method when employees need to be at or near unguarded moving parts. •",
+                    "score": 0.5932999849319458
+                }
+            ],
+            "reranker_used": "baseline",
+            "citation": {
+                "id": 647,
+                "source": "osha3170.pdf"
+            }
+        },
+        "hybrid": {
+            "answer": "In-going nip points, of turning helical flights for the entire length of the screw conveyor, exist between the revolving shaft and trough. Since the trough is not usually required to be covered for proper operation of the conveyor and because many screw convey- ors are located",
+            "contexts": [
+                {
+                    "id": 647,
+                    "source": "osha3170.pdf",
+                    "text": "Hazards:Belt-conveyor drive mechanisms and conveying mediums are hazardous as are the fol- lowing belt-conveyor areas: 1) conveyor take-up and discharge ends; 2) where the belt or chain enters or exits the in-going nip point; 3) where the belt wraps around pulleys; 4) snub rollers where the belt changes direction, such as take- ups; 5) where multiple conveyors are adjoined; or 6) on transfers or deflectors used with belt conveyors. Controls: The hazards associated with nip and shear points must be safeguarded. Side guards (spill guards), if properly designed can prevent employee contact with power-transmission com- ponent, in-going nip points and the conveying medium. Secondary safeguarding methods for hazard control include the use of standard railings or fencing, or safeguarding by distance (location), and installing hazard awareness devices, such as pre-start-up signals and warning signs. Screw Conveyors Hazards:Screw conveyors are troughs with a revolving longitudinal shaft on which a spiral or twisted plate is designed. In-going nip points, of turning helical flights for the entire length of the screw conveyor, exist between the revolving shaft and trough. Since the trough is not usually required to be covered for proper operation of the conveyor and because many screw convey- ors are located",
+                    "vec_score": 0.6671481132507324,
+                    "bm25": 16.853415296544743,
+                    "final_score": 0.9261670446636686
+                },
+                {
+                    "id": 651,
+                    "source": "osha3170.pdf",
+                    "text": "Use prominent awareness devices, such as warning signs or lights, to alert employees to the conveyor operation. • Allow only trained individuals to operate con- veyors and only trained, authorized staff to per- form servicing and maintenance work. • Visually inspect the entire conveyor and imme- diate work area prior to start-up to determine that the actuation will not cause an employee hazard. • Inspect and test conveyor safety mechanisms, such as its alarms, emergency stops, and safe- guarding methods. • Do not use any conveyor which is unsafe until it is made safe. • Forbid employees from riding on conveyors. • Prohibit employees working with or near con- veyors from wearing loose clothing or jewelry, and require them to secure long hair with a net or cap. • Install emergency stop devices on conveyors where employees work when they cannot other- wise control the movement of the conveyor. This recognized safety feature provides employ- ees with the means to shut off the equipment in the event of a hazardous situation or emergency incident. For emergency stop devices, you will need these engineering controls: • Equip conveyors with interlocking devices that shut them down during an electrical or mechani- cal",
+                    "vec_score": 0.6057420969009399,
+                    "bm25": 19.492298729781236,
+                    "final_score": 0.776349615989862
+                },
+                {
+                    "id": 646,
+                    "source": "osha3170.pdf",
+                    "text": "Figure 28 Screw Conveyor Figure 29 Chain Driven Live Roller Conveyor Fixed Guard Over Power-T ransmission Apparatus Belt In-Running Nip Some guards and covers are not shown to facilitate viewing of moving parts. Equipment must not be operated without guards and covers in place. Fixed Guard Over Power-T ransmission Apparatus In-Running Nip Point Fixed Guard In-Running Nip Point Screw Rotating Motion Fixed Guard In-Running Nip Point Chain In-Running Nip Point Fixed Guard Sprocket Roller Figure 30 Slat Conveyor Safeguarding Conveyors As conveyor hazards vary depending on the appli- cation, employers need to look at each conveyor to evaluate and determine what primary safeguarding methods and energy control (lockout/tagout) practices are required. Where necessary for the protection of employees, conveyors need to have mechanical guards that protect the employee from nip points, shear points, and other moving parts, including power-transmission apparatus. Guards may include barriers, enclosures, grating, fences, or other obstructions that prevent inadvertent physical contact with operating machine components, such as point of operation areas, belts, gears, sprockets, chains, and other moving parts. A brief description of the hazards and recognized safeguarding meth- ods is presented for common types of conveyors. T ypical Conveyor Hazards and Safeguarding Methods Belt Conveyors",
+                    "vec_score": 0.5863357186317444,
+                    "bm25": 17.506356739012197,
+                    "final_score": 0.6501041365871795
+                }
+            ],
+            "reranker_used": "hybrid",
+            "citation": {
+                "id": 647,
+                "source": "osha3170.pdf"
+            }
+        }
+    },
+    {
+        "question": "Explain the safety requirements for power press brakes.",
+        "baseline": {
+            "answer": "26 Occupational Safety and Health Administration Other Controls for Power Press Brakes The following are some secondary safeguarding methods and complementary equipment that may be used to supplement primary safeguarding or alone or in combination when primary safeguard- ing methods are not feasible: • Safe distance safeguarding, • Safe holding safeguarding, • Safe work procedures, • Work-holding equipment (such as back gauges), • Properly designed and protected foot pedals, and • Hand-feeding tools. Ensure that proper safeguarding and lockout/ tagout procedures are developed and implemented for power press brakes.",
+            "contexts": [
+                {
+                    "id": 643,
+                    "source": "osha3170.pdf",
+                    "text": "guard or safeguarding devices is not feasible (impossi- ble) – that is, where the use of primary safeguard- ing method (such as a restraint device) is not fea- sible. Additional information about a safe distance safeguarding program can be found in OSHA Instruction 02-01-025 [CPL 2-1.25] – Guidelines for Point of Operation Guarding of Power Press Brakes. 26 Occupational Safety and Health Administration Other Controls for Power Press Brakes The following are some secondary safeguarding methods and complementary equipment that may be used to supplement primary safeguarding or alone or in combination when primary safeguard- ing methods are not feasible: • Safe distance safeguarding, • Safe holding safeguarding, • Safe work procedures, • Work-holding equipment (such as back gauges), • Properly designed and protected foot pedals, and • Hand-feeding tools. Ensure that proper safeguarding and lockout/ tagout procedures are developed and implemented for power press brakes. Train and supervise em- ployees in these procedures and conduct periodic inspections to ensure compliance. Applicable Standards • 29 CFR 1910.147, Control of hazardous energy (lockout/tagout). • 29 CFR 1910.212, General requirements for all machines. • 29 CFR 1910.219, Mechanical power-transmis- sion apparatus. Sources of Additional Information • OSHA Publication 3067, Concepts and Techniques",
+                    "score": 0.7192785739898682
+                },
+                {
+                    "id": 639,
+                    "source": "osha3170.pdf",
+                    "text": "on Amputations • OSHA Publication 3067, Concepts and Techniques of Machine Safeguarding (http://www.osha.gov/Publications/Mach_ Safeguard/toc.html) • OSHA Machine Guarding eTool (http://www. osha.gov/SLTC/etools/machineguarding/index. html) • OSHA Lockout/Tagout Interactive Training Program (http://www.osha.gov/dts/osta/ lototraining/index.htm) • NIOSH CIB 49, Injuries and Amputations Resulting From Work with Mechanical Power Presses (May 22, 1987) • OSHA Instruction STD 01-12-021 [STD 1- 12.21]—29 CFR 1910.217, Mechanical Power Presses, Clarifications(10/30/78) • ANSI B11.1-2001, Safety Requirements for Mechanical Power Presses 24 Occupational Safety and Health Administration Power Press Brakes Power press brakes are similar to mechanical power presses in that they use vertical reciprocat- ing motion and are used for repetitive tasks. Press brake operation is either mechanical or hydraulic. Press brakes are either general-purpose or spe- cial-purpose brakes, according to ANSI B11.3-2002, Safety Requirements for Power Press Brakes. General purpose press brakes have a single opera- tor control station. A servo-system activates the special purpose brake, which may be equipped with multiple operator/helper control stations. (See Figure 25 for a power press brake operation.) Figure 25 Power Press Brake Bending Metal Hazards of Power Press Brakes As with mechanical power presses, point of opera- tion injuries are the most common type of injury associated with power press brakes. Here",
+                    "score": 0.674950361251831
+                },
+                {
+                    "id": 644,
+                    "source": "osha3170.pdf",
+                    "text": "of Machine Safeguarding (http://www.osha.gov/Publications/Mach_ Safeguard/toc.html) • OSHA Machine Guarding eTool (http://www. osha.gov/SLTC/etools/machineguarding/index. html) • OSHA Lockout/Tagout Interactive Training Program (http://www.osha.gov/dts/osta/ lototraining/index.htm) • OSHA Directive – CPL 02-01-025 [CPL 2-1.25], Guidelines for Point of Operation Guarding of Power Press Brakes • ANSI B11.3-2002, Safety Requirements for Power Press Brakes Hazards of Conveyors Conveyors are used in many industries to transport materials horizontally, vertically, at an angle, or around curves. Many conveyors have different and unique features and uses, so that hazards vary due Wristlets Point of Operation Press Bed to the material conveyed, the location of the con- veyor, and the proximity of the conveyer to the employees. Types include unpowered and pow- ered, live roller, slat, chain, screw, and pneumatic. Conveyors eliminate or reduce manual material handling tasks, but they present amputation haz- ards associated with mechanical motion. (See Figures 27 through 30for examples of common conveyors.) Conveyor-related injuries typically involve a employee’s hands or fingers becoming caught in nip points or shear points on conveyors and may occur in these situations: • Cleaning and maintaining a conveyor, especially when it is still operating. • Reaching into an in-going nip point to remove debris or to free jammed material. •",
+                    "score": 0.6498374342918396
+                }
+            ],
+            "reranker_used": "baseline",
+            "citation": {
+                "id": 643,
+                "source": "osha3170.pdf"
+            }
+        },
+        "hybrid": {
+            "answer": "26 Occupational Safety and Health Administration Other Controls for Power Press Brakes The following are some secondary safeguarding methods and complementary equipment that may be used to supplement primary safeguarding or alone or in combination when primary safeguard- ing methods are not feasible: • Safe distance safeguarding, • Safe holding safeguarding, • Safe work procedures, • Work-holding equipment (such as back gauges), • Properly designed and protected foot pedals, and • Hand-feeding tools. Ensure that proper safeguarding and lockout/ tagout procedures are developed and implemented for power press brakes.",
+            "contexts": [
+                {
+                    "id": 643,
+                    "source": "osha3170.pdf",
+                    "text": "guard or safeguarding devices is not feasible (impossi- ble) – that is, where the use of primary safeguard- ing method (such as a restraint device) is not fea- sible. Additional information about a safe distance safeguarding program can be found in OSHA Instruction 02-01-025 [CPL 2-1.25] – Guidelines for Point of Operation Guarding of Power Press Brakes. 26 Occupational Safety and Health Administration Other Controls for Power Press Brakes The following are some secondary safeguarding methods and complementary equipment that may be used to supplement primary safeguarding or alone or in combination when primary safeguard- ing methods are not feasible: • Safe distance safeguarding, • Safe holding safeguarding, • Safe work procedures, • Work-holding equipment (such as back gauges), • Properly designed and protected foot pedals, and • Hand-feeding tools. Ensure that proper safeguarding and lockout/ tagout procedures are developed and implemented for power press brakes. Train and supervise em- ployees in these procedures and conduct periodic inspections to ensure compliance. Applicable Standards • 29 CFR 1910.147, Control of hazardous energy (lockout/tagout). • 29 CFR 1910.212, General requirements for all machines. • 29 CFR 1910.219, Mechanical power-transmis- sion apparatus. Sources of Additional Information • OSHA Publication 3067, Concepts and Techniques",
+                    "vec_score": 0.7192785739898682,
+                    "bm25": 26.46295383618235,
+                    "final_score": 0.9065807497032774
+                },
+                {
+                    "id": 639,
+                    "source": "osha3170.pdf",
+                    "text": "on Amputations • OSHA Publication 3067, Concepts and Techniques of Machine Safeguarding (http://www.osha.gov/Publications/Mach_ Safeguard/toc.html) • OSHA Machine Guarding eTool (http://www. osha.gov/SLTC/etools/machineguarding/index. html) • OSHA Lockout/Tagout Interactive Training Program (http://www.osha.gov/dts/osta/ lototraining/index.htm) • NIOSH CIB 49, Injuries and Amputations Resulting From Work with Mechanical Power Presses (May 22, 1987) • OSHA Instruction STD 01-12-021 [STD 1- 12.21]—29 CFR 1910.217, Mechanical Power Presses, Clarifications(10/30/78) • ANSI B11.1-2001, Safety Requirements for Mechanical Power Presses 24 Occupational Safety and Health Administration Power Press Brakes Power press brakes are similar to mechanical power presses in that they use vertical reciprocat- ing motion and are used for repetitive tasks. Press brake operation is either mechanical or hydraulic. Press brakes are either general-purpose or spe- cial-purpose brakes, according to ANSI B11.3-2002, Safety Requirements for Power Press Brakes. General purpose press brakes have a single opera- tor control station. A servo-system activates the special purpose brake, which may be equipped with multiple operator/helper control stations. (See Figure 25 for a power press brake operation.) Figure 25 Power Press Brake Bending Metal Hazards of Power Press Brakes As with mechanical power presses, point of opera- tion injuries are the most common type of injury associated with power press brakes. Here",
+                    "vec_score": 0.674950361251831,
+                    "bm25": 32.26069351087915,
+                    "final_score": 0.8961244013356949
+                },
+                {
+                    "id": 644,
+                    "source": "osha3170.pdf",
+                    "text": "of Machine Safeguarding (http://www.osha.gov/Publications/Mach_ Safeguard/toc.html) • OSHA Machine Guarding eTool (http://www. osha.gov/SLTC/etools/machineguarding/index. html) • OSHA Lockout/Tagout Interactive Training Program (http://www.osha.gov/dts/osta/ lototraining/index.htm) • OSHA Directive – CPL 02-01-025 [CPL 2-1.25], Guidelines for Point of Operation Guarding of Power Press Brakes • ANSI B11.3-2002, Safety Requirements for Power Press Brakes Hazards of Conveyors Conveyors are used in many industries to transport materials horizontally, vertically, at an angle, or around curves. Many conveyors have different and unique features and uses, so that hazards vary due Wristlets Point of Operation Press Bed to the material conveyed, the location of the con- veyor, and the proximity of the conveyer to the employees. Types include unpowered and pow- ered, live roller, slat, chain, screw, and pneumatic. Conveyors eliminate or reduce manual material handling tasks, but they present amputation haz- ards associated with mechanical motion. (See Figures 27 through 30for examples of common conveyors.) Conveyor-related injuries typically involve a employee’s hands or fingers becoming caught in nip points or shear points on conveyors and may occur in these situations: • Cleaning and maintaining a conveyor, especially when it is still operating. • Reaching into an in-going nip point to remove debris or to free jammed material. •",
+                    "vec_score": 0.6498374342918396,
+                    "bm25": 24.869667046915342,
+                    "final_score": 0.7181845939436852
+                }
+            ],
+            "reranker_used": "hybrid",
+            "citation": {
+                "id": 643,
+                "source": "osha3170.pdf"
+            }
+        }
+    },
+    {
+        "question": "What are the OSHA guidelines for drill presses?",
+        "baseline": {
+            "answer": "SAFEGUARDING EQUIPMENT AND PROTECTING EMPLOYEES FROM AMPUTATIONS 51 References American National Standards Institute • ANSI B5.52M-1980 (R1994), Presses, General Purpose, Single Point, Gap Type, Mechanical Power (Metric) • ANSI B5.37—1970 (R1994), External Cylindrical Grinding Machines—Centerless • ANSI B5.42—198 (R1994), External Cylindrical Grinding Machines—Universal • ANSI B7.1—2000, Use, Care, and Protection of Abrasive Wheels • ANSI B11.1-2001, Safety Requirements for Mechanical Power Presses • ANSI B11.3-2002, Safety Requirements for the Construction, Care, and Use of Power Press Brakes • ANSI B11.4-2003, Safety Requirements for Construction, Care, and Use of Shears • ANSI B11.8-2001, Safety Requirements for Manual Milling, Drilling and Boring Machines with or without Automatic Control • ANSI B11.9—1975 (R2005), Safety Requirements for the Construction, Care, and Use of Grinding Machines • ANSI B11.12-1996, Safety Requirements for Construction, Care, and Use of Roll-Forming and Roll-Bending Machines • ANSI B11.14—1996, Coil Slitting Machines to OSHA’s national office at: U.S. Department of Labor, Occupational Safety and Health Administration, 200 Constitution Avenue, N.W., Washington, DC 20210.",
+            "contexts": [
+                {
+                    "id": 709,
+                    "source": "osha3170.pdf",
+                    "text": "to OSHA’s national office at: U.S. Department of Labor, Occupational Safety and Health Administration, 200 Constitution Avenue, N.W., Washington, DC 20210. By visiting OSHA’s website at www.osha.gov, you can also: • file a complaint online, • submit general inquiries about workplace safety and health electronically, and • find more information about OSHA and occupation- al safety and health. SAFEGUARDING EQUIPMENT AND PROTECTING EMPLOYEES FROM AMPUTATIONS 51 References American National Standards Institute • ANSI B5.52M-1980 (R1994), Presses, General Purpose, Single Point, Gap Type, Mechanical Power (Metric) • ANSI B5.37—1970 (R1994), External Cylindrical Grinding Machines—Centerless • ANSI B5.42—198 (R1994), External Cylindrical Grinding Machines—Universal • ANSI B7.1—2000, Use, Care, and Protection of Abrasive Wheels • ANSI B11.1-2001, Safety Requirements for Mechanical Power Presses • ANSI B11.3-2002, Safety Requirements for the Construction, Care, and Use of Power Press Brakes • ANSI B11.4-2003, Safety Requirements for Construction, Care, and Use of Shears • ANSI B11.8-2001, Safety Requirements for Manual Milling, Drilling and Boring Machines with or without Automatic Control • ANSI B11.9—1975 (R2005), Safety Requirements for the Construction, Care, and Use of Grinding Machines • ANSI B11.12-1996, Safety Requirements for Construction, Care, and Use of Roll-Forming and Roll-Bending Machines • ANSI B11.14—1996, Coil Slitting Machines",
+                    "score": 0.6434875726699829
+                },
+                {
+                    "id": 688,
+                    "source": "osha3170.pdf",
+                    "text": "the hazardous energy and are: 1) properly designed and applied in accor- dance with good engineering practice; 2) placed in an off (open) position; and 3) under the exclu- sive control of the employee performing the minor servicing task. Source: 29 CFR 1910.147(a)(2)(ii) Note. Cord- and Plug-connected Electric Equipment The OSHA LOTO standard would not apply when employees are performing servicing and mainte- nance work on a cord- and plug-connected drill press if the press is unplugged and the plug is in the exclusive control of the employee performing the task. The employee would be able to control the press from being energized by controlling the attachment plug. Source: 29 CFR 1910.147(a)(2)(ii)(A). Applicable Standards • 29 CFR 1910.147, Control of hazardous energy (lockout/tagout). • 29 CFR 1910.212, General requirements for all machines. • 29 CFR 1910.213, Woodworking machinery requirements. • 29 CFR 1910.219, Mechanical power-transmis- sion apparatus. Sources of Additional Information • OSHA Publication 3067, Concepts and Techniques of Machine Safeguarding (http://www.osha.gov/Publications/Mach_ Safeguard/toc.html) • OSHA Machine Guarding eTool (http://www. osha.gov/SLTC/etools/machineguarding/index. html) • OSHA Lockout/Tagout Interactive Training Program (http://www.osha.gov/dts/osta/ lototraining/index.htm) • OSHA Publication 3157, A Guide for Protecting Workers from Woodworking Hazards(http:// www.osha.gov/Publication/osha3157.pdf) • ANSI B11.8-2001, Safety Requirements for Manual Milling,",
+                    "score": 0.6160657405853271
+                },
+                {
+                    "id": 1405,
+                    "source": "safebk-rm002_-en-p.pdf",
+                    "text": "normal production operations, are covered by ANSI Z244 “Alternative Measures” if they are routine, repetitive, and integral to the use of the equipment for production, provided that the work is performed using alternative measures which provide effective protection. This is directly supported by OSHA in the “OSHA Minor Servicing Exception”. Alternative measures are safeguarding devices like light curtains, safety mats, gate interlocks and other similar devices connected to a safety system. The challenge to the machine designer and user is to determine what is “minor” and what is “routine, repetitive and integral.” This can be covered during the Risk Assessment. Subpart O covers “Machinery and Machine Guarding.” This subpart lists the general requirements for all machines as well as requirements for some speciﬁ c machines. When OSHA was formed in 1971, it adopted many existing ANSI standards. For example B11.1 for mechanical power presses was adopted as 1910.217. The 1910.212 is the general OSHA standard for machines. It states that one or more methods of machine guarding shall be provided to protect the operator and other employees in the machine area from hazards such as those created by the point of operation, ingoing nip points, rotating parts, ﬂ ying chips",
+                    "score": 0.6110420823097229
+                }
+            ],
+            "reranker_used": "baseline",
+            "citation": {
+                "id": 709,
+                "source": "osha3170.pdf"
+            }
+        },
+        "hybrid": {
+            "answer": "normal production operations, are covered by ANSI Z244 “Alternative Measures” if they are routine, repetitive, and integral to the use of the equipment for production, provided that the work is performed using alternative measures which provide effective protection. The 1910.212 is the general OSHA standard for machines.",
+            "contexts": [
+                {
+                    "id": 1405,
+                    "source": "safebk-rm002_-en-p.pdf",
+                    "text": "normal production operations, are covered by ANSI Z244 “Alternative Measures” if they are routine, repetitive, and integral to the use of the equipment for production, provided that the work is performed using alternative measures which provide effective protection. This is directly supported by OSHA in the “OSHA Minor Servicing Exception”. Alternative measures are safeguarding devices like light curtains, safety mats, gate interlocks and other similar devices connected to a safety system. The challenge to the machine designer and user is to determine what is “minor” and what is “routine, repetitive and integral.” This can be covered during the Risk Assessment. Subpart O covers “Machinery and Machine Guarding.” This subpart lists the general requirements for all machines as well as requirements for some speciﬁ c machines. When OSHA was formed in 1971, it adopted many existing ANSI standards. For example B11.1 for mechanical power presses was adopted as 1910.217. The 1910.212 is the general OSHA standard for machines. It states that one or more methods of machine guarding shall be provided to protect the operator and other employees in the machine area from hazards such as those created by the point of operation, ingoing nip points, rotating parts, ﬂ ying chips",
+                    "vec_score": 0.6110420823097229,
+                    "bm25": 23.218013817899664,
+                    "final_score": 0.8388814132453033
+                },
+                {
+                    "id": 709,
+                    "source": "osha3170.pdf",
+                    "text": "to OSHA’s national office at: U.S. Department of Labor, Occupational Safety and Health Administration, 200 Constitution Avenue, N.W., Washington, DC 20210. By visiting OSHA’s website at www.osha.gov, you can also: • file a complaint online, • submit general inquiries about workplace safety and health electronically, and • find more information about OSHA and occupation- al safety and health. SAFEGUARDING EQUIPMENT AND PROTECTING EMPLOYEES FROM AMPUTATIONS 51 References American National Standards Institute • ANSI B5.52M-1980 (R1994), Presses, General Purpose, Single Point, Gap Type, Mechanical Power (Metric) • ANSI B5.37—1970 (R1994), External Cylindrical Grinding Machines—Centerless • ANSI B5.42—198 (R1994), External Cylindrical Grinding Machines—Universal • ANSI B7.1—2000, Use, Care, and Protection of Abrasive Wheels • ANSI B11.1-2001, Safety Requirements for Mechanical Power Presses • ANSI B11.3-2002, Safety Requirements for the Construction, Care, and Use of Power Press Brakes • ANSI B11.4-2003, Safety Requirements for Construction, Care, and Use of Shears • ANSI B11.8-2001, Safety Requirements for Manual Milling, Drilling and Boring Machines with or without Automatic Control • ANSI B11.9—1975 (R2005), Safety Requirements for the Construction, Care, and Use of Grinding Machines • ANSI B11.12-1996, Safety Requirements for Construction, Care, and Use of Roll-Forming and Roll-Bending Machines • ANSI B11.14—1996, Coil Slitting Machines",
+                    "vec_score": 0.6434875726699829,
+                    "bm25": 15.950460915529838,
+                    "final_score": 0.8154855563078787
+                },
+                {
+                    "id": 688,
+                    "source": "osha3170.pdf",
+                    "text": "the hazardous energy and are: 1) properly designed and applied in accor- dance with good engineering practice; 2) placed in an off (open) position; and 3) under the exclu- sive control of the employee performing the minor servicing task. Source: 29 CFR 1910.147(a)(2)(ii) Note. Cord- and Plug-connected Electric Equipment The OSHA LOTO standard would not apply when employees are performing servicing and mainte- nance work on a cord- and plug-connected drill press if the press is unplugged and the plug is in the exclusive control of the employee performing the task. The employee would be able to control the press from being energized by controlling the attachment plug. Source: 29 CFR 1910.147(a)(2)(ii)(A). Applicable Standards • 29 CFR 1910.147, Control of hazardous energy (lockout/tagout). • 29 CFR 1910.212, General requirements for all machines. • 29 CFR 1910.213, Woodworking machinery requirements. • 29 CFR 1910.219, Mechanical power-transmis- sion apparatus. Sources of Additional Information • OSHA Publication 3067, Concepts and Techniques of Machine Safeguarding (http://www.osha.gov/Publications/Mach_ Safeguard/toc.html) • OSHA Machine Guarding eTool (http://www. osha.gov/SLTC/etools/machineguarding/index. html) • OSHA Lockout/Tagout Interactive Training Program (http://www.osha.gov/dts/osta/ lototraining/index.htm) • OSHA Publication 3157, A Guide for Protecting Workers from Woodworking Hazards(http:// www.osha.gov/Publication/osha3157.pdf) • ANSI B11.8-2001, Safety Requirements for Manual Milling,",
+                    "vec_score": 0.6160657405853271,
+                    "bm25": 19.159996765828208,
+                    "final_score": 0.7852529971165438
+                }
+            ],
+            "reranker_used": "hybrid",
+            "citation": {
+                "id": 1405,
+                "source": "safebk-rm002_-en-p.pdf"
+            }
+        }
+    },
+    {
+        "question": "Describe the guarding methods for food slicers.",
+        "baseline": {
+            "answer": "methods, work practices and complementary equipment that may be used to supplement primary safeguarding or alone or in combination when pri- mary safeguarding methods are not feasible: • Develop and implement safe work (operating) procedures for slicers and conduct periodic inspections to ensure compliance. For other slicers, they should use the feeding attachment located on the food-holder.",
+            "contexts": [
+                {
+                    "id": 675,
+                    "source": "osha3170.pdf",
+                    "text": "methods, work practices and complementary equipment that may be used to supplement primary safeguarding or alone or in combination when pri- mary safeguarding methods are not feasible: • Develop and implement safe work (operating) procedures for slicers and conduct periodic inspections to ensure compliance. • Ensure that all operators receive on-the-job training under the direct supervision of experi- enced operators until they can work safely on their own. • Use warning signs to alert employees of the hazard and safety instructions. • Instruct operators to use plungers to feed food into chute-fed slicers. For other slicers, they should use the feeding attachment located on the food-holder. • Never place food into the slicer by hand-feeding or hand pressure. • Instruct operators to retract the slicer blade dur- ing cleaning operations. • Instruct operators to turn off and unplug slicers when not in use or when left unattended for any period of time. • Perform servicing and maintenance under an energy control program in accordance with the Control of hazardous energy (lockout/tagout),29 CFR 1910.147, standard. You can avoid slicer lockout/tagout if the equipment is cord-and-plug connected equipment simply by having exclu- sive control over the attachment plug after you shut the",
+                    "score": 0.7100937366485596
+                },
+                {
+                    "id": 672,
+                    "source": "osha3170.pdf",
+                    "text": "or safety tripod) on the back side of the shear. • Ensure that all operators receive on-the-job pushing/guarding device or plunger may be used to apply pressure to the food against the slicer blade, or pressure may be applied by gravity and/or by an attachment connected to the food holder. (See Figure 37.) Figure 37 Meat Slicer Amputations resulting from work with food slicers can occur as follows: • When the operator adjusts or services the slicer while it is still operating or while it is switched off but still plugged in, or energized. In the latter case, amputations occur when the operator acci- dentally switches the slicer on. • When the operator fails to use the sliding attach- ment on the food-holding device, especially when slicing small pieces of meat. • When the operator hand-feeds food into a chute-fed slicer without using the proper push- ing/guarding device or plunger. Case History #14 Two employees, an operator and an assistant, were using a meat slicer to slice turkey. The assistant was holding a box of turkey in a tilted position while the operator fed the turkey into the slicer. The operator removed the guard from the meat slicer because the",
+                    "score": 0.6322684288024902
+                },
+                {
+                    "id": 681,
+                    "source": "osha3170.pdf",
+                    "text": "band saw to cut 1/4 -inch slabs of meat from a 4-inch thick piece of beef. As the piece of meat got smaller, his hands moved too close to the saw blade. The employee was not using the pusher guard provided for the saw. Source: OSHA IMIS Accident Investigation Database. Safeguarding and Other Controls for Meat-Cutting Band Saws Primary safeguarding methods that you can use include the following: • Install a self-adjusting guard over the entire blade, except at the working portion, or point of operation of the blade. The guard must be adjustable to cover the unused portion of the blade above the meat during cutting operations. • Enclose the pulley mechanism and motor com- pletely. The following are some secondary safeguard- ing methods, work practices, and complementary equipment that may be used to supplement pri- mary safeguarding or alone or in combination when primary safeguarding methods are not fea- sible: • Develop and implement safe work (operating) procedures for meat-cutting band saws to ensure that the guards are adequate and in place and that operators safely perform feeding methods. • Ensure that all operators receive adequate on- the-job training under the direct supervision of experienced operators until they",
+                    "score": 0.6208740472793579
+                }
+            ],
+            "reranker_used": "baseline",
+            "citation": {
+                "id": 675,
+                "source": "osha3170.pdf"
+            }
+        },
+        "hybrid": {
+            "answer": "methods, work practices and complementary equipment that may be used to supplement primary safeguarding or alone or in combination when pri- mary safeguarding methods are not feasible: • Develop and implement safe work (operating) procedures for slicers and conduct periodic inspections to ensure compliance. For other slicers, they should use the feeding attachment located on the food-holder.",
+            "contexts": [
+                {
+                    "id": 675,
+                    "source": "osha3170.pdf",
+                    "text": "methods, work practices and complementary equipment that may be used to supplement primary safeguarding or alone or in combination when pri- mary safeguarding methods are not feasible: • Develop and implement safe work (operating) procedures for slicers and conduct periodic inspections to ensure compliance. • Ensure that all operators receive on-the-job training under the direct supervision of experi- enced operators until they can work safely on their own. • Use warning signs to alert employees of the hazard and safety instructions. • Instruct operators to use plungers to feed food into chute-fed slicers. For other slicers, they should use the feeding attachment located on the food-holder. • Never place food into the slicer by hand-feeding or hand pressure. • Instruct operators to retract the slicer blade dur- ing cleaning operations. • Instruct operators to turn off and unplug slicers when not in use or when left unattended for any period of time. • Perform servicing and maintenance under an energy control program in accordance with the Control of hazardous energy (lockout/tagout),29 CFR 1910.147, standard. You can avoid slicer lockout/tagout if the equipment is cord-and-plug connected equipment simply by having exclu- sive control over the attachment plug after you shut the",
+                    "vec_score": 0.7100937366485596,
+                    "bm25": 31.25401256131944,
+                    "final_score": 0.9591647262807014
+                },
+                {
+                    "id": 674,
+                    "source": "osha3170.pdf",
+                    "text": "Information • OSHA Instruction CPL 03-00-002, National Emphasis Program on Amputations. • OSHA Publication 3067, Concepts and Techniques of Machine Safeguarding (http://www.osha.gov/Publications/Mach_ Safeguard/toc.html) • OSHA Machine Guarding eTool (http://www. osha.gov/SLTC/etools/machineguarding/index. html) • OSHA Lockout/Tagout Interactive Training Program (http://www.osha.gov/dts/osta/ lototraining/index.htm) • ANSI B11.4-2003, Safety Requirements for Shears. Hazards of Food Slicers Food slicers are electrically powered machines typi- cally equipped with a rotary blade, an on/off switch, thickness adjustment, and a food holder or chute. A On/Off Switch Meat Holder Thickness Adjustment Rotating Blade Case History #15 An employee was cleaning a meat slicer that was turned off but was still plugged in. He inadver- tently turned the machine on by bumping the on/off switch, resulting in an amputation of his right ring finger. Safeguarding and Other Controls for Food Slicers Food slicers must be used with guards that cover the unused portions of the slicer blade on both the top and bottom of the slicer. You should buy slicers already equipped with a feeding attachment on the sliding mechanism of the food holder or purchase the attachment separately and install it before use. Instruct employees to use a pushing/guarding de- vice with chute-fed slicers. The following are some secondary safeguarding",
+                    "vec_score": 0.6065599918365479,
+                    "bm25": 34.38330567017852,
+                    "final_score": 0.8229062297447198
+                },
+                {
+                    "id": 672,
+                    "source": "osha3170.pdf",
+                    "text": "or safety tripod) on the back side of the shear. • Ensure that all operators receive on-the-job pushing/guarding device or plunger may be used to apply pressure to the food against the slicer blade, or pressure may be applied by gravity and/or by an attachment connected to the food holder. (See Figure 37.) Figure 37 Meat Slicer Amputations resulting from work with food slicers can occur as follows: • When the operator adjusts or services the slicer while it is still operating or while it is switched off but still plugged in, or energized. In the latter case, amputations occur when the operator acci- dentally switches the slicer on. • When the operator fails to use the sliding attach- ment on the food-holding device, especially when slicing small pieces of meat. • When the operator hand-feeds food into a chute-fed slicer without using the proper push- ing/guarding device or plunger. Case History #14 Two employees, an operator and an assistant, were using a meat slicer to slice turkey. The assistant was holding a box of turkey in a tilted position while the operator fed the turkey into the slicer. The operator removed the guard from the meat slicer because the",
+                    "vec_score": 0.6322684288024902,
+                    "bm25": 22.51283742608515,
+                    "final_score": 0.7119783246248608
+                }
+            ],
+            "reranker_used": "hybrid",
+            "citation": {
+                "id": 675,
+                "source": "osha3170.pdf"
+            }
+        }
+    },
+    {
+        "question": "Explain energy isolating devices in machinery.",
+        "baseline": {
+            "answer": "Isolation of energy sources Machinery or related products shall be fitted with means to isolate it from all energy sources. In the case of machinery or related products into which persons shall enter for operation, adjustment, maintenance or cleaning, the machinery accesses shall be dimensioned and adapted for the use of rescue equipment in such a way that an emergency rescue of the persons is possible.",
+            "contexts": [
+                {
+                    "id": 181,
+                    "source": "CELEX_32023R1230_EN_TXT.pdf",
+                    "text": "frequently, shall be capable of being removed and replaced easily and safely. Access to the components shall enable these tasks to be carried out with the necessary technical means in accordance with a specified operating method. 1.6.2. Access to operating positions and servicing points Machinery or related products shall be designed and constructed in such a way as to allow access in safety to all areas where intervention is necessary during operation, adjustment, maintenance and cleaning of the machinery or related product. In the case of machinery or related products into which persons shall enter for operation, adjustment, maintenance or cleaning, the machinery accesses shall be dimensioned and adapted for the use of rescue equipment in such a way that an emergency rescue of the persons is possible. 1.6.3. Isolation of energy sources Machinery or related products shall be fitted with means to isolate it from all energy sources. Such isolators shall be clearly identified. They shall be capable of being locked if reconnection could endanger persons. Isolators shall also be capable of being locked where an operator is unable, from any of the points to which he or she has access, to check that the energy is still cut",
+                    "score": 0.6110001802444458
+                },
+                {
+                    "id": 1430,
+                    "source": "safebk-rm002_-en-p.pdf",
+                    "text": "machine’s hazard zones. Lockout / Tagout New machines must be built with lockable energy isolating devices. The devices apply to all types of energy, including electrical, hydraulic, pneumatic, gravity, and lasers. Lockout refers to applying a lock to an energy isolating device. The lock must only be removed by its owner or by a supervisor under controlled conditions. When multiple individuals must work on the machine, each individual must apply their locks to the energy isolating devices. Each lock must be identiﬁ able to its owner. In the U.S., tagout is an alternative to lockout for older machines where a lockable device has never been installed. In this case, the machine is turned off and a tag is applied to warn all personnel to not start the machine while the tag holder is working on the machine. Beginning in 1990, machines that are modiﬁ ed must be upgraded to include a lockable energy isolating device. MACHINERY SAFEBOOK 5 Safety related control systems for machinery 30 An energy isolating device is a mechanical device that physically prevents the transmission or release of energy. These devices can take the form of a circuit breaker, a disconnect switch, a manually operated switch, a",
+                    "score": 0.580052375793457
+                },
+                {
+                    "id": 232,
+                    "source": "CELEX_32023R1230_EN_TXT.pdf",
+                    "text": "f m o v e m e n t s Devices for controlling movements shall act in such a way that the machinery or related product on which they are installed is kept safe. (a) Machinery or related products shall be designed and constructed or fitted with devices in such a way that the amplitude of movement of its components is kept within the specified limits. The operation of such devices shall, where appropriate, be preceded by a warning; (b) Where several fixed or rail-mounted machinery or related products can be manoeuvred simultaneously in the same place, with risks of collision, such machinery shall be designed and constructed in such a way as to make it possible to fit systems enabling these risks to be avoided; (c) Machinery or related products shall be designed and constructed in such a way that the loads cannot creep dangerously or fall freely and unexpectedly, even in the event of partial or total failure of the power supply or when the operator stops operating the machinery; (d) It shall not be possible, under normal operating conditions, to lower the load solely by friction brake, except in the case of machinery or related products whose",
+                    "score": 0.5373092293739319
+                }
+            ],
+            "reranker_used": "baseline",
+            "citation": {
+                "id": 181,
+                "source": "CELEX_32023R1230_EN_TXT.pdf"
+            }
+        },
+        "hybrid": {
+            "answer": "When multiple individuals must work on the machine, each individual must apply their locks to the energy isolating devices. MACHINERY SAFEBOOK 5 Safety related control systems for machinery 30 An energy isolating device is a mechanical device that physically prevents the transmission or release of energy.",
+            "contexts": [
+                {
+                    "id": 1430,
+                    "source": "safebk-rm002_-en-p.pdf",
+                    "text": "machine’s hazard zones. Lockout / Tagout New machines must be built with lockable energy isolating devices. The devices apply to all types of energy, including electrical, hydraulic, pneumatic, gravity, and lasers. Lockout refers to applying a lock to an energy isolating device. The lock must only be removed by its owner or by a supervisor under controlled conditions. When multiple individuals must work on the machine, each individual must apply their locks to the energy isolating devices. Each lock must be identiﬁ able to its owner. In the U.S., tagout is an alternative to lockout for older machines where a lockable device has never been installed. In this case, the machine is turned off and a tag is applied to warn all personnel to not start the machine while the tag holder is working on the machine. Beginning in 1990, machines that are modiﬁ ed must be upgraded to include a lockable energy isolating device. MACHINERY SAFEBOOK 5 Safety related control systems for machinery 30 An energy isolating device is a mechanical device that physically prevents the transmission or release of energy. These devices can take the form of a circuit breaker, a disconnect switch, a manually operated switch, a",
+                    "vec_score": 0.580052375793457,
+                    "bm25": 26.919390107445928,
+                    "final_score": 0.9119448225217672
+                },
+                {
+                    "id": 181,
+                    "source": "CELEX_32023R1230_EN_TXT.pdf",
+                    "text": "frequently, shall be capable of being removed and replaced easily and safely. Access to the components shall enable these tasks to be carried out with the necessary technical means in accordance with a specified operating method. 1.6.2. Access to operating positions and servicing points Machinery or related products shall be designed and constructed in such a way as to allow access in safety to all areas where intervention is necessary during operation, adjustment, maintenance and cleaning of the machinery or related product. In the case of machinery or related products into which persons shall enter for operation, adjustment, maintenance or cleaning, the machinery accesses shall be dimensioned and adapted for the use of rescue equipment in such a way that an emergency rescue of the persons is possible. 1.6.3. Isolation of energy sources Machinery or related products shall be fitted with means to isolate it from all energy sources. Such isolators shall be clearly identified. They shall be capable of being locked if reconnection could endanger persons. Isolators shall also be capable of being locked where an operator is unable, from any of the points to which he or she has access, to check that the energy is still cut",
+                    "vec_score": 0.6110001802444458,
+                    "bm25": 12.688418807259794,
+                    "final_score": 0.7605478576503403
+                },
+                {
+                    "id": 1431,
+                    "source": "safebk-rm002_-en-p.pdf",
+                    "text": "plug/socket combination or a manually operated valve. Electrical isolating devices must switch all ungrounded supply conductors and no pole can operate independently. The purpose of lockout and tagout is to prevent the unexpected startup of the machine. Unexpected startup may be the result of various causes: a failure of the control system; an inappropriate action on a start control, sensor, contactor, or valve; a restoration of power after an interruption; or some other internal or external inﬂ uences. After completion of the lockout or tagout process, the dissipation of the energy must be veriﬁ ed. Safety Isolation Systems Safety isolation systems execute an orderly shutdown of a machine and also provide an easy method of locking off the power to a machine. This approach works well for larger machines and manufacturing systems, especially when multiple energy sources are located on a mezzanine level or at distant locations. Load Disconnects For local isolation of electrical devices, switches can be placed just prior to the device that needs to be isolated and locked out. The Bulletin 194E Load Switches are an example of a product that are capable of both isolation and lockout. Trapped Key Systems Trapped key systems are another method",
+                    "vec_score": 0.5357887744903564,
+                    "bm25": 15.776077897530076,
+                    "final_score": 0.598503681505792
+                }
+            ],
+            "reranker_used": "hybrid",
+            "citation": {
+                "id": 1430,
+                "source": "safebk-rm002_-en-p.pdf"
+            }
+        }
+    }
+]
