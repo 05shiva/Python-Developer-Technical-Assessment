@@ -51,3 +51,12 @@ Through this assessment, I improved my understanding of:
 - **API Development**: Building a working RESTful API to serve ML-powered answers.
 
 This project helped me gain experience integrating multiple components into a coherent system and handling real-world text data.
+## Two Example curl Requests
+### Easy:
+curl -X POST "http://127.0.0.1:8000/ask" \
+-H "Content-Type: application/json" \
+-d '{"q":"What is lockout-tagout?","k":3,"mode":"hybrid"}'
+### Tricky:
+curl -X POST "http://127.0.0.1:8000/ask" \
+-H "Content-Type: application/json" \
+-d '{"q":"Explain energy isolating devices in machinery.","k":5,"mode":"hybrid"}'
