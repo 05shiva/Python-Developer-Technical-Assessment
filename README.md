@@ -33,7 +33,7 @@ The system answers 8 safety-related questions by retrieving relevant information
 ## Setup Instructions 
 
 1. **Clone the repository**  
-```bash
+
 git clone https://github.com/05shiva/Python-Developer-Technical-Assessment.git
 cd assement
 2. pip install -r requirements.txt
@@ -41,7 +41,7 @@ cd assement
 4.python scripts/run_assessment.py
 5.python scripts/table.py
 
-## Setup Instructions 
+## Learning 
 
 
 Through this assessment, I improved my understanding of:
