@@ -45,11 +45,8 @@ cd assement
 
 Through this assessment, I improved my understanding of:
 
-Data Pipelines: Efficiently chunking and embedding source documents.
-
-Search & Reranking: Combining vector similarity with BM25 scoring for hybrid retrieval.
-
-API Development: Building a working RESTful API to serve ML-powered answers.
+- **Data Pipelines**: Efficiently chunking and embedding source documents.
+- **Search & Reranking**: Combining vector similarity with BM25 scoring for hybrid retrieval.
+- **API Development**: Building a working RESTful API to serve ML-powered answers.
 
 This project helped me gain experience integrating multiple components into a coherent system and handling real-world text data.
-
